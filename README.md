@@ -8,7 +8,7 @@ The attached analysis dives in to Auto Loan patterns over a 10-year period, brok
     
     3.	Do trends in loan approvals correlate with trends in car purchases?
 
-# ------------------------------------------------------------------------------
+# ----------------------------------------------------------------
 
 # Data Sources
 
