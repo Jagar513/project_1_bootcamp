@@ -1,12 +1,56 @@
 # Automotive Car Loan Analysis
 
-The attached analysis dives in to Auto Loan patterns over a 10-year period, broken down by quarter; to answer the questions below.
+This repository contains an in-depth analysis of automotive loan and car purchase trends over a 10-year period, segmented quarterly. The analysis addresses key questions about the interplay between loan approvals, car purchases, and loan rates.
+
+Analysis Overview
+
+Key Questions Explored:
 
     1.	Are the number of people taking out loans increasing or decreasing?
     
     2.	Has the number of people purchasing cars increased or decreased?
     
     3.	Do trends in loan approvals correlate with trends in car purchases?
+
+# ----------------------------------------------------------------
+
+# Tools and Frameworks:
+
+Jupyter Notebook: For data cleaning, merging, and analysis.
+
+Python (Pandas, Matplotlib): Used for data manipulation and visualization.
+
+VS Code: Development environment for creating and analyzing the data.
+
+# ----------------------------------------------------------------
+
+# Key Steps:
+
+Data Cleaning and Transformation: Standardized formats, renamed columns, handled missing values, and merged datasets for comprehensive analysis.
+
+Trend Analysis: Created visualizations to compare metrics like total loans, average car sales per person, and loan rates.
+
+Population Adjustments: Accounted for population growth to provide per capita insights into car purchases.
+
+# ----------------------------------------------------------------
+
+# Summary of Findings:
+
+Loan Trends: The number of people taking out loans has been rapidly decreasing post-COVID-19, with loan rates playing a significant role.
+
+Car Purchase Trends: Car purchases per person have shown an increasing trend, returning to pre-pandemic levels.
+
+Loan and Purchase Correlation: While loan approvals and car purchases initially moved together, post-pandemic loan rate fluctuations caused a divergence.
+
+# ----------------------------------------------------------------
+
+# Conclusion
+
+The analysis highlights critical consumer behavior trends:
+
+Rising loan rates discourage long-term auto loans.
+
+Consumers are increasingly purchasing cars outright, especially in a high-inflation environment.
 
 # ----------------------------------------------------------------
 
