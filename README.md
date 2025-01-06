@@ -42,15 +42,41 @@ Car Purchase Trends: Car purchases per person have shown an increasing trend, re
 
 Loan and Purchase Correlation: While loan approvals and car purchases initially moved together, post-pandemic loan rate fluctuations caused a divergence.
 
+
 # ----------------------------------------------------------------
 
-# Conclusion
+# Statistical Analysis:
 
-The analysis highlights critical consumer behavior trends:
+**Total Loan Amount** 
 
-Rising loan rates discourage long-term auto loans.
+*T-statistic: -9.49*
 
-Consumers are increasingly purchasing cars outright, especially in a high-inflation environment.
+Interpretation: 
+    a. The large negative t-statistic suggests that the Total Loan Amount decreased significantly after the onset of the COVID-19 pandemic.
+
+**Average Loan Rate**
+
+*T-statistic: 0.63*
+
+Interpretation: The small t-statistic suggests that loan rates remained relatively stable despite the pandemic.
+
+**Average Financed Amount**
+
+*T-statistic: -12.34*
+
+Interpretation: The large negative t-statistic indicates a considerable decrease in the average amount financed per loan after the COVID-19 outbreak.
+
+**Average Loan Amount**
+
+*T-statistic: -9.71*
+
+Interpretation: Similar to the Average Financed Amount, this suggests a significant decrease in the average loan size post-COVID.
+
+**Total People Getting Loans**
+
+*T-statistic: 3.89*
+
+Interpretation: The positive t-statistic suggests an increase in the number of people getting loans after the COVID-19 pandemic began.
 
 # ----------------------------------------------------------------
 
@@ -89,3 +115,12 @@ https://api.census.gov/data/2019/pep/charagegroups?get=NAME,POP&for=us:*&key={ce
 •API 2 - Population Data
 
 https://datausa.io/api/data?drilldowns=Nation&measures=Population
+
+
+
+
+
+
+
+
+5:31
